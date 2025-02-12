@@ -3,7 +3,7 @@ I'm a passionate **Full-Stack Developer** who loves building web applications an
 
 ### 💡 About Me  
 - 🔭 Currently working on **exciting web projects**  
-- 🌱 Learning **React, Node.js, and Cloud Technologies**  
+- 🌱 Learning **React **jQuery **bootstrap 
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **JavaScript, Python, and Web Development**  
 
